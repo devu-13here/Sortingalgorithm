@@ -1,0 +1,13 @@
+SORTING TECHNIQUES
+
+1.Bubble
+2.Insertion
+3.Selection
+4.Heap Sort
+5.Merge Sort
+6.Quick Sort
+7.Tree Sort
+8.Shell Sort
+9.Count Sort
+10.Bucket Sort
+11.Radix Sort
